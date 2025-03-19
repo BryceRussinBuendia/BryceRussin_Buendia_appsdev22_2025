@@ -1,0 +1,16 @@
+C:\Users\Carlo\source\repos\simpleAppwithCombobox\simpleAppwithCombobox\bin\Debug\net8.0-windows\simpleAppwithCombobox.exe
+C:\Users\Carlo\source\repos\simpleAppwithCombobox\simpleAppwithCombobox\bin\Debug\net8.0-windows\simpleAppwithCombobox.deps.json
+C:\Users\Carlo\source\repos\simpleAppwithCombobox\simpleAppwithCombobox\bin\Debug\net8.0-windows\simpleAppwithCombobox.runtimeconfig.json
+C:\Users\Carlo\source\repos\simpleAppwithCombobox\simpleAppwithCombobox\bin\Debug\net8.0-windows\simpleAppwithCombobox.dll
+C:\Users\Carlo\source\repos\simpleAppwithCombobox\simpleAppwithCombobox\bin\Debug\net8.0-windows\simpleAppwithCombobox.pdb
+C:\Users\Carlo\source\repos\simpleAppwithCombobox\simpleAppwithCombobox\obj\Debug\net8.0-windows\simpleAppwithCombobox.Form1.resources
+C:\Users\Carlo\source\repos\simpleAppwithCombobox\simpleAppwithCombobox\obj\Debug\net8.0-windows\simpleAppwithCombobox.csproj.GenerateResource.cache
+C:\Users\Carlo\source\repos\simpleAppwithCombobox\simpleAppwithCombobox\obj\Debug\net8.0-windows\simpleAppwithCombobox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\source\repos\simpleAppwithCombobox\simpleAppwithCombobox\obj\Debug\net8.0-windows\simpleAppwithCombobox.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\repos\simpleAppwithCombobox\simpleAppwithCombobox\obj\Debug\net8.0-windows\simpleAppwithCombobox.AssemblyInfo.cs
+C:\Users\Carlo\source\repos\simpleAppwithCombobox\simpleAppwithCombobox\obj\Debug\net8.0-windows\simpleAppwithCombobox.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\simpleAppwithCombobox\simpleAppwithCombobox\obj\Debug\net8.0-windows\simpleAppwithCombobox.dll
+C:\Users\Carlo\source\repos\simpleAppwithCombobox\simpleAppwithCombobox\obj\Debug\net8.0-windows\refint\simpleAppwithCombobox.dll
+C:\Users\Carlo\source\repos\simpleAppwithCombobox\simpleAppwithCombobox\obj\Debug\net8.0-windows\simpleAppwithCombobox.pdb
+C:\Users\Carlo\source\repos\simpleAppwithCombobox\simpleAppwithCombobox\obj\Debug\net8.0-windows\simpleAppwithCombobox.genruntimeconfig.cache
+C:\Users\Carlo\source\repos\simpleAppwithCombobox\simpleAppwithCombobox\obj\Debug\net8.0-windows\ref\simpleAppwithCombobox.dll
